@@ -35,6 +35,7 @@ const NoteState = (props) => {
           setToken(Cookies.get('Authorization'))
           settypeAdmin(Cookies.get('typeAdmin'));
          }
+         console.log(json)
          return json;
  }
 const signUp=async(Name,Email,Password,Gender,DateofBirth)=>{

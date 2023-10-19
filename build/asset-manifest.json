@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/gh/static/css/main.6d13f612.css",
+    "main.js": "/gh/static/js/main.4d21db89.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/gh/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/umair.jpeg": "/gh/static/media/umair.1229f5280d8d3d38c09c.jpeg",
+    "static/media/qirab.jpeg": "/gh/static/media/qirab.b7499cf23fa33e7cf454.jpeg",
+    "static/media/usman.jpeg": "/gh/static/media/usman.223ca10f8127dffcd33d.jpeg",
+    "static/media/hero.png": "/gh/static/media/hero.50528142a72adc7e906d.png",
+    "index.html": "/gh/index.html",
+    "main.6d13f612.css.map": "/gh/static/css/main.6d13f612.css.map",
+    "main.4d21db89.js.map": "/gh/static/js/main.4d21db89.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/gh/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d13f612.css",
+    "static/js/main.4d21db89.js"
+  ]
+}

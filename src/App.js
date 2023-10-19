@@ -4,7 +4,6 @@ import State from './Context/State'
 import Signup from './Components/Auth/Signup';
 import Navbar from './Components/Navbar';
 import {
-  BrowserRouter as Router,
   Route, Routes
 } from 'react-router-dom';
 import HeroSection from './Components/HeroSection';
@@ -22,7 +21,7 @@ import ToApprovedUsers from './Components/admin/ToApprovedUsers'
 import MyBestMatches from './Components/Best Matches/MyBestMatches'
 function App() {
   return (
-    <Router>
+    <>
       <State>
         <Navbar />
         <Routes>
@@ -63,7 +62,7 @@ function App() {
 
         </Routes>
       </State>
-    </Router>
+    </>
   );
 }
 
